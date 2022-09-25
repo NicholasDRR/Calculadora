@@ -39,8 +39,8 @@ Abrir o Cmd ou PowerShell na pasta e rodar o comando: ```python main.py```
 Extras:
 
 - [ ] Função para apagar último dígito
-
-
+- [ ] Pensar em uma forma mais segura referente a falhas de segurança
+ 
 
 ## Imagem
 ![crud-menu](./calculadora.PNG)
