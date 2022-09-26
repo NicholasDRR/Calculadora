@@ -1,9 +1,8 @@
 # Calculadora
- Calculadora feita em Python usando Tkinter.
- 
+
 ## Descrição
 
-Faz cálculos matemáticos.
+ Calculadora feita em Python usando Tkinter. Faz cálculos matemáticos.
 
 ## Como Usar
 
